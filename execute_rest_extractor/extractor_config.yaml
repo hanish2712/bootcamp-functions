@@ -16,6 +16,7 @@ cognite:
   extraction_pipeline:
     external-id: "api:opcua:timeseries"
 
+# dummy comment
 api:
   url: https://ice-cream-factory.inso-internal.cognite.ai
   sites:
